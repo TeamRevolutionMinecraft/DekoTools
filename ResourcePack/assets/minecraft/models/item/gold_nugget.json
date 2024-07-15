@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/gold_nugget"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":1000000}, "model": "item/money/bronze"},
+		{"predicate": {"custom_model_data":1000001}, "model": "item/money/silver"},
+		{"predicate": {"custom_model_data":1000002}, "model": "item/money/gold"}
+
+	]
+}

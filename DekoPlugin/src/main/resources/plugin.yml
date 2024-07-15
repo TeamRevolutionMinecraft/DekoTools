@@ -1,0 +1,4 @@
+name: RevoDeko
+version: '${project.version}'
+main: teamrevolution.revodeko.main.RevoDeko
+api-version: 1.18

@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/phantom_membrane"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":1000003}, "model": "item/money/wallet"}
+
+	]
+}
